@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RFIDTagInitialize.exe" version="1.0.0.0" publicKeyToken="02e0f2afb75768ff" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Resources\RFIDTagInitial.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RFIDTagInitialize" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="RFIDTagInitialize.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AlienRFID2.dll" size="217088">
+      <assemblyIdentity name="AlienRFID2" version="2.3.2.0" publicKeyToken="DDAE77BFD743F970" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5TOoT7QK0DlcdGVZLuG2cLOLzig=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DPCtlUruNet.dll" size="125240">
+      <assemblyIdentity name="DPCtlUruNet" version="1.0.0.1" publicKeyToken="7F32EF930FEC5E5F" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tXNLALBOWs+LwfpchYDvQQDDQiw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DPUruNet.dll" size="58680">
+      <assemblyIdentity name="DPUruNet" version="1.0.0.1" publicKeyToken="7F32EF930FEC5E5F" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>+nO+Vx2ilPYVq1meddSFMBV2IdU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="504320">
+      <assemblyIdentity name="Newtonsoft.Json" version="6.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Z/C9XPo4JIYGJraz//N9yJ4wXOw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RFIDModel.dll" size="49664">
+      <assemblyIdentity name="RFIDModel" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>A6lqmK6CnSasyvmiA1sB2BJuNw0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RFIDTagInitialize.exe" size="659968">
+      <assemblyIdentity name="RFIDTagInitialize" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>6rKilg33Bj1jZoynxeWnGOhV4Hk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UHFControl.dll" size="9216">
+      <assemblyIdentity name="UHFControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>jMsUSiCa4CNTP+0HKyS71CspucQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UR4RFID.dll" size="40448">
+      <assemblyIdentity name="UR4RFID" version="1.2.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>SGCtSiZZti3Nvn74Gq/vwP88bHA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\RFIDTagInitial.ico" size="199987">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ulo2Ik1+mz5+Mjfi+TvfPPMyv3s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zhiding.ico" size="3262">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Dl7sUI6rntiuMHeou2YufV8JGoA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=P23-3300010478\Administrator" issuerKeyHash="89a98134e03738640975974704f65e693be2fea7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>S+QhOmzqohTtkHqXPQ2TsUyYSdA=</DigestValue></Reference></SignedInfo><SignatureValue>x0VunaJwv9NEbPWTYjokKXtUGxvEJaOLY11ZtZlfWtorFDMX7o3xKMWVKfJVRD2Y/1qOGVKr8u4Fdt3daXZDANFItPFoP7IWWEUmnOOS4du4Fc9KblT+2eY2/G8/SLIiPoVLCbxGPgM565fi6bdnCcIdLSrE+aPs9dEzle4o+Ew=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3ENIpXPHQTT7L8DJspayqPWUsU+r3+HfV0VThaZLyCSKiBGJAmOqIpV+slTrgIq6girY7vzWEptLMzmkuvqTWyHXvjvE/UyoxH6G/leUSOO0A0tdPpLjM3cwwVaTNgFaX9AMlb6+AEasHqDcnEc2ay5HX6p6iTY/30cnp5/3BIk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d049984cb1930d3d977a90ed14a2ea6c3a21e44b" Description="" Url=""><as:assemblyIdentity name="RFIDTagInitialize.exe" version="1.0.0.0" publicKeyToken="02e0f2afb75768ff" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=P23-3300010478\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>VK7b8dhAoEiUtfGucPbb5F7D2Vg=</DigestValue></Reference></SignedInfo><SignatureValue>wZKysB3hJ58GjtP1OChmq1KZxrYS2cOdhJitR8PwV6Q6urfggyO0aAnAOTRzrOgJ2MMsX43+7wOVX4yaxQGj1pk9dbBKh3VWITtl+VwO7TfLK9BWBciA363VKz+KxnYwKcv3feA2y8WePBeXwG5ZySnU+B3HnKVE489fzxY4X+k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3ENIpXPHQTT7L8DJspayqPWUsU+r3+HfV0VThaZLyCSKiBGJAmOqIpV+slTrgIq6girY7vzWEptLMzmkuvqTWyHXvjvE/UyoxH6G/leUSOO0A0tdPpLjM3cwwVaTNgFaX9AMlb6+AEasHqDcnEc2ay5HX6p6iTY/30cnp5/3BIk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICCTCCAXKgAwIBAgIQXsV/UcVSeI9IBO9ddNdgLjANBgkqhkiG9w0BAQUFADBDMUEwPwYDVQQDHjgAUAAyADMALQAzADMAMAAwADAAMQAwADQANwA4AFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjAeFw0yNDA5MjQwNDEyMjhaFw0yNTA5MjQxMDEyMjhaMEMxQTA/BgNVBAMeOABQADIAMwAtADMAMwAwADAAMAAxADAANAA3ADgAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDcQ0ilc8dBNPsvwMmylrKo9ZSxT6vf4d9XRVOFpkvIJIqIEYkCY6oilX6yVOuAirqCKtju/NYSm0szOaS6+pNbIde+O8T9TKjEfob+V5RI47QDS10+kuMzdzDBVpM2AVpf0AyVvr4ARqweoNycRzZrLkdfqnqJNj/fRyenn/cEiQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAFeVkVvID6lVDqj6MEEGuOJc3EwMNhsxNJfl1jgp4Uqnr/EN4aBINu4/KIs+cwYDQKRvKfa64DhV5S3xpup11PXGgzeM3S+xQEtTjiOlTD1V7vG5YVA4CjG76CeVrcFuunYQZfk+hFxOIwtWe6m+Be7Xwd83WYUzwBRH6Df4+VvH</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

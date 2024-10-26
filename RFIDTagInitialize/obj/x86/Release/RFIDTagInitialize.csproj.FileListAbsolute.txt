@@ -1,0 +1,90 @@
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\AlienRFID2.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\Newtonsoft.Json.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\RFIDModel.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\UHFControl.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\UR4RFID.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\AlienRFID2.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\Newtonsoft.Json.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\RFIDModel.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\UHFControl.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Release\UR4RFID.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\AlienRFID2.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\Newtonsoft.Json.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\RFIDModel.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\UHFControl.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Release\UR4RFID.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\AlienRFID2.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\Newtonsoft.Json.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\RFIDModel.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\UHFControl.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Release\UR4RFID.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\AlienRFID2.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\Newtonsoft.Json.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\RFIDModel.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\UHFControl.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Release\UR4RFID.dll
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Release\RFIDTagInitialize.pdb

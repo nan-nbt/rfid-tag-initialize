@@ -1,0 +1,71 @@
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csprojResolveAssemblyReference.cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csprojResolveAssemblyReference.cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240926]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csprojResolveAssemblyReference.cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240927]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csprojResolveAssemblyReference.cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20240928]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmLogin.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.application
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.exe
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\bin\Debug\RFIDTagInitialize.pdb
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csprojResolveAssemblyReference.cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmOAuth2Login.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.FrmTagInitial.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.Properties.Resources.resources
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.csproj.GenerateResource.Cache
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.TrustInfo.xml
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.exe.manifest
+D:\@nan\PROJECT\RFIDClient [MODULE]\RFIDTagInitialize [20241001]\RFIDTagInitialize\obj\x86\Debug\RFIDTagInitialize.application
